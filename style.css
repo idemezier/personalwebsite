@@ -1,0 +1,103 @@
+
+
+.sidediv {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    height: min-content;
+    background-color: #232f3e;
+    border-style: solid;
+    height: 100%;
+    width: 25%;
+    position: fixed;
+}
+
+.sidediv .bar {
+    border-style: solid;
+    height: fit-content;
+    text-align: center;
+}
+
+.sidediv h1 {
+    color: white;
+    border-style: solid;
+    height: fit-content;
+    text-align: center;
+}
+
+.sidediv h2 {
+    color: white;
+    border-style: solid;
+    height: fit-content;
+    text-align: center;
+}
+
+#navimage {
+    opacity: 1;
+    width: 25%;
+    width: 25%;
+    text-align: center;
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.seconddiv {
+    border-style: solid;
+    height: fit-content;
+    width: 75%;
+    margin-left: 25%;
+}
+
+.seconddiv .firstheader {
+    height: fit-content;
+    border-style: solid;
+    width: 50%;
+    font-size: 20px;
+}
+
+.thirddiv {
+    border-style: solid;
+    text-align: center;
+    height: 60%;
+    width: 75%;
+    margin-left: 25%;
+}
+
+.thirddiv .firstheader {
+    margin-left: 25%;
+    height: fit-content;
+    border-style: solid;
+    font-size: 20px;
+}
+
+.thirddiv .bestdiv {
+    height: fit-content;
+}
+
+
+.bestdiv {
+    padding-left: 10%;
+    border-style: solid;
+    display: flex;
+    height: fit-content;
+    flex-wrap: nowrap;
+}
+
+.seconddiv .bestdiv .firstheader {
+    position: relative;
+    top: 100px;
+}
+
+
+
+#sideimage {
+    width: 55%;
+    height: fit-content;
+}
+
+.spacer {
+    width: 250px;
+}
